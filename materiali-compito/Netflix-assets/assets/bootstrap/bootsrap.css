@@ -11353,6 +11353,6 @@ body {
     color: white;
     height: auto;
     background-image: url("https://cutewallpaper.org/27/black-colorful-wallpaper-paint/115504702.jpg");
-    background-size: cover;
+    background-size: contain;
     background-repeat: repeat;
 }
